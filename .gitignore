@@ -1,0 +1,15 @@
+# MediaPipe model (downloaded automatically at runtime)
+*.task
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
